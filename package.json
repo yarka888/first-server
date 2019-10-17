@@ -1,0 +1,26 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "My first server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarka888/first-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Ali Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarka888/first-server/issues"
+  },
+  "homepage": "https://github.com/yarka888/first-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
